@@ -1,0 +1,2 @@
+include ':app', ':showmessagelibrary'
+rootProject.name='LibraryOne'
